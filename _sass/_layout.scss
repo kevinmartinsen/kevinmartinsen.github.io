@@ -60,16 +60,6 @@ body {
   transition:.4s;
 }
 
-.logo a:hover {
-  color:#222;
-  background-image:-webkit-linear-gradient(bottom,#222,#222);
-  background-image:linear-gradient(to top,#222,#222);
-  text-shadow:-1px -1px 0 #FDFDFD,1px -1px 0 #FDFDFD,-1px 1px 0 #FDFDFD,1px 1px 0 #FDFDFD;
-  background-repeat:repeat-x;
-  background-size:2px 2px;
-  background-position:0 96%
-}
-
 .nav {
   line-height: $base-line-height;
 
@@ -327,9 +317,9 @@ body.custom-background {
   background-position: top left;
   background-attachment: scroll; }
 
-/* Archive page */
+/* blog page */
 
-.archive_list { 
+.blog_list { 
   margin-left:5%;
   width:90%;
   margin-bottom:3rem;
@@ -348,6 +338,14 @@ body.custom-background {
 div.post_title span.date {
   font-size: 80%;
   color: $grey-color;
+}
+
+/* Project page */
+
+.project_list { 
+  margin-left:5%;
+  width:90%;
+  margin-bottom:3rem;
 }
 
 /* Pagination */
