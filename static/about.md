@@ -3,8 +3,8 @@ layout: page
 title: About Me 
 permalink: /about/
 ---
-![]({{site.baseurl}}/assets/img/reallykevin.jpg "Definitely me")
-
+![]({{site.baseurl}}/assets/img/sortakevin.jpg "Definitely me"){:width="200"} 
+  
 Ever since I was a child I have loved mathematics.
 Solving equations and understanding the process has always been fun for me. Why does this work? How did this mathematician 
 solve this? How was this equation created? Not knowing would only make me think about it more. 
@@ -17,4 +17,3 @@ I am majoring in mathematics with a minor in computer science.
 My goal is to continue studying mathematics and study artificial intelligence after graduation. 
 I am also interested in computer security, programming, cyberpunk, stencil art, drawing, choice theory, and philosophy.
 
- 
